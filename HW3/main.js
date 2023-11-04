@@ -32,7 +32,7 @@ HW3_trace2.hole=0.5;
 HW3_trace2.labels=[];
 HW3_trace2.values=[];
 HW3_trace2.domain={
-    row:0,
+    row:1,
     column:1
 };
 
@@ -70,7 +70,7 @@ HW3_trace4.hole=0.5;
 HW3_trace4.labels=[];
 HW3_trace4.values=[];
 HW3_trace4.domain={
-    row:0,
+    row:1,
     column:1
 };
 
@@ -108,7 +108,7 @@ HW3_trace6.hole=0.5;
 HW3_trace6.labels=[];
 HW3_trace6.values=[];
 HW3_trace6.domain={
-    row:0,
+    row:1,
     column:1
 };
 
@@ -146,7 +146,7 @@ HW3_trace8.hole=0.5;
 HW3_trace8.labels=[];
 HW3_trace8.values=[];
 HW3_trace8.domain={
-    row:0,
+    row:1,
     column:1
 };
 
@@ -184,7 +184,7 @@ HW3_trace10.hole=0.5;
 HW3_trace10.labels=[];
 HW3_trace10.values=[];
 HW3_trace10.domain={
-    row:0,
+    row:1,
     column:1
 };
 
@@ -221,7 +221,7 @@ let HW3_layout={
         l:0,
     },
     grid:{
-        rows:1,
+        rows:2,
         columns:2
     },
     title:"107年公教人員保險現金給付統計"
@@ -232,7 +232,7 @@ let HW3_layout2={
         l:0,
     },
     grid:{
-        rows:1,
+        rows:2,
         columns:2
     },
     title:"108年公教人員保險現金給付統計"
@@ -243,7 +243,7 @@ let HW3_layout3={
         l:0,
     },
     grid:{
-        rows:1,
+        rows:2,
         columns:2
     },
     title:"109年公教人員保險現金給付統計"
@@ -254,7 +254,7 @@ let HW3_layout4={
         l:0,
     },
     grid:{
-        rows:1,
+        rows:2,
         columns:2
     },
     title:"110年公教人員保險現金給付統計"
@@ -265,7 +265,7 @@ let HW3_layout5={
         l:0,
     },
     grid:{
-        rows:1,
+        rows:2,
         columns:2
     },
     title:"111年公教人員保險現金給付統計"
